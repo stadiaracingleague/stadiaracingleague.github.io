@@ -11,7 +11,6 @@ body > * {
 .row {
   margin-bottom: 1rem;
 }
-.calendar-iframe,
-.twitter-iframe {
+.calendar-iframe {
   max-width: 100%;
 }
