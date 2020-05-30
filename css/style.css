@@ -2,6 +2,9 @@ body {
   background: var(--dark);
   color: var(--light);
 }
+body > * {
+  text-align: center;
+} 
 .calendar-iframe {
   max-width: 100%;
 }
