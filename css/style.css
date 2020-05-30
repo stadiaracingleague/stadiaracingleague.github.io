@@ -4,7 +4,10 @@ body {
 }
 body > * {
   text-align: center;
-} 
+}
+.row {
+  margin-bottom: 1rem;
+}
 .calendar-iframe {
   max-width: 100%;
 }
